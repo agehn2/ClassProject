@@ -8,5 +8,5 @@ namespace ClassProjectLibrary
 {
     public class Class1
     {
-    }
+    }fd
 }
